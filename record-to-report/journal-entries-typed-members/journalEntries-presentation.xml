@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--
+Taxonomy Presentation Links linkbase based on XBRL standard Version 2.1.
+Created by UBmatrix Taxonomy Designer 3.0.2.2347 (2007-12-17 12:39).  
+Contact www.ubmatrix.com
+Copyright (c) 2002-2020 UBmatrix inc., All Rights Reserved
+Produced on 2020-03-31 14:48:08
+-->
+<linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation=" http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+  <roleRef xlink:type="simple" xlink:href="journalEntries.xsd#Transactions" roleURI="http://www.xbrlsite.com/basic/role/Transactions" />
+  <presentationLink xlink:type="extended" xlink:role="http://www.xbrlsite.com/basic/role/Transactions">
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalHypercube" xlink:label="je_JournalHypercube" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_EntryDimension" xlink:label="je_EntryDimension" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalHypercube" xlink:to="je_EntryDimension" order="1" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_SequenceDimension" xlink:label="je_SequenceDimension" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalHypercube" xlink:to="je_SequenceDimension" order="2" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalLineItems" xlink:label="je_JournalLineItems" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalHypercube" xlink:to="je_JournalLineItems" order="3" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalSet" xlink:label="je_JournalSet" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalLineItems" xlink:to="je_JournalSet" order="1" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionAccount" xlink:label="je_TransactionAccount" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionAccount" order="1" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionCategory" xlink:label="je_TransactionCategory" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionCategory" order="2" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionDate" xlink:label="je_TransactionDate" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionDate" order="3" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionDescription" xlink:label="je_TransactionDescription" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionDescription" order="4" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionBalanceType" xlink:label="je_TransactionBalanceType" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionBalanceType" order="5" use="optional" />
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionAmount" xlink:label="je_TransactionAmount" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="je_JournalSet" xlink:to="je_TransactionAmount" order="6" use="optional" />
+  </presentationLink>
+</linkbase>

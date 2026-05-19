@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created by Charles Hoffman, CPA -->
+<!-- Auto-generated from GeneralLedgerTrialBalance2 prototype: 12/17/2024 3:12:30 PM -->
+<!-- General journal entries, XBRL dimensions typed members style -->
+<xbrl
+ xmlns='http://www.xbrl.org/2003/instance'
+ xmlns:link='http://www.xbrl.org/2003/linkbase'
+ xmlns:xbrldi='http://xbrl.org/2006/xbrldi'
+ xmlns:xlink='http://www.w3.org/1999/xlink'
+ xmlns:je='http://www.xbrlsite.com/je'
+ xmlns:entry='http://xbrlsite.com/je/entry'
+ xmlns:sequence='http://xbrlsite.com/je/sequence'
+ xmlns:iso4217='http://www.xbrl.org/2003/iso4217'
+ >
+
+   <link:schemaRef xlink:href='journalEntries.xsd' xlink:type='simple' />
+
+
+     <!-- Contexts for each journal entry and sequence number -->
+     <context id='D-2024-JE-201-SC1001'>
+          <!-- JE-201 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE201</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-201-SC1002'>
+          <!-- JE-201 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE201</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-202-SC1001'>
+          <!-- JE-202 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE202</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-202-SC1002'>
+          <!-- JE-202 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE202</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-203-SC1001'>
+          <!-- JE-203 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE203</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-203-SC1002'>
+          <!-- JE-203 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE203</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-204-SC1001'>
+          <!-- JE-204 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE204</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-204-SC1002'>
+          <!-- JE-204 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE204</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-205-SC1001'>
+          <!-- JE-205 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE205</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-205-SC1002'>
+          <!-- JE-205 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE205</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-206-SC1001'>
+          <!-- JE-206 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE206</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-206-SC1002'>
+          <!-- JE-206 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE206</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-206-SC1003'>
+          <!-- JE-206 -->
+          <!-- Seq-3 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE206</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1003</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-206-SC1004'>
+          <!-- JE-206 -->
+          <!-- Seq-4 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE206</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1004</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-207-SC1001'>
+          <!-- JE-207 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE207</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-207-SC1002'>
+          <!-- JE-207 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE207</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-208-SC1001'>
+          <!-- JE-208 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE208</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-208-SC1002'>
+          <!-- JE-208 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE208</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-209-SC1001'>
+          <!-- JE-209 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE209</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-209-SC1002'>
+          <!-- JE-209 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE209</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-209-SC1003'>
+          <!-- JE-209 -->
+          <!-- Seq-3 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE209</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1003</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-209-SC1004'>
+          <!-- JE-209 -->
+          <!-- Seq-4 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE209</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1004</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-210-SC1001'>
+          <!-- JE-210 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE210</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-210-SC1002'>
+          <!-- JE-210 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE210</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-223-SC1001'>
+          <!-- JE-223 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE223</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-223-SC1002'>
+          <!-- JE-223 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE223</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-224-SC1001'>
+          <!-- JE-224 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE224</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-224-SC1002'>
+          <!-- JE-224 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE224</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-225-SC1001'>
+          <!-- JE-225 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE225</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-225-SC1002'>
+          <!-- JE-225 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE225</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-226-SC1001'>
+          <!-- JE-226 -->
+          <!-- Seq-1 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE226</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1001</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+     <context id='D-2024-JE-226-SC1002'>
+          <!-- JE-226 -->
+          <!-- Seq-2 -->
+          <entity>
+              <identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</identifier>
+                 <segment>
+                     <xbrldi:typedMember dimension='je:EntryDimension'><entry:EntryCode>JE226</entry:EntryCode></xbrldi:typedMember>
+                     <xbrldi:typedMember dimension='je:SequenceDimension'><sequence:SequenceCode>SC1002</sequence:SequenceCode></xbrldi:typedMember>
+                 </segment>
+          </entity>
+          <period>
+              <startDate>2024-01-01</startDate>
+            <endDate>2024-12-31</endDate>
+          </period>
+     </context>
+      <unit id='U-Monetary'>
+        <measure>iso4217:USD</measure>
+      </unit>
+<!-- JE-201 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-201-SC1001'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-201-SC1001'>mini:ProceedsFromInvestmentsByOwner</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-201-SC1001'>2024-01-01</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-201-SC1001'>Investment by owner to open a lemonade stand.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-201-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-201-SC1001' decimals='2' unitRef='U-Monetary'>10000</je:TransactionAmount>
+ 
+ 
+<!-- JE-201 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-201-SC1002'>mini:PaidInCapital</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-201-SC1002'>mini:InvestmentsByOwner</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-201-SC1002'>2024-01-01</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-201-SC1002'>Investment by owner to open a lemonade stand.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-201-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-201-SC1002' decimals='2' unitRef='U-Monetary'>10000</je:TransactionAmount>
+ 
+ 
+<!-- JE-202 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-202-SC1001'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-202-SC1001'>mini:ProceedsFromAdditionalLongtermBorrowings</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-202-SC1001'>2024-01-02</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-202-SC1001'>Long term borrowing to purchase refrigerator.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-202-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-202-SC1001' decimals='2' unitRef='U-Monetary'>2000</je:TransactionAmount>
+ 
+ 
+<!-- JE-202 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-202-SC1002'>mini:LongtermDebt</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-202-SC1002'>mini:AdditionalLongtermBorrowings</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-202-SC1002'>2024-01-02</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-202-SC1002'>Long term borrowing to purchase refrigerator.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-202-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-202-SC1002' decimals='2' unitRef='U-Monetary'>2000</je:TransactionAmount>
+ 
+ 
+<!-- JE-203 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-203-SC1001'>mini:PropertyPlantAndEquipment</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-203-SC1001'>mini:CapitalAdditionsPropertyPlantAndEquipment</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-203-SC1001'>2024-01-05</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-203-SC1001'>Purchase of refrigerator  using cash from additional borrowings.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-203-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-203-SC1001' decimals='2' unitRef='U-Monetary'>1000</je:TransactionAmount>
+ 
+ 
+<!-- JE-203 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-203-SC1002'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-203-SC1002'>mini:PaymentForCapitalAdditionsOfPropertyPlantEquipment</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-203-SC1002'>2024-01-05</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-203-SC1002'>Purchase of refrigerator using cash from additional borrowings.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-203-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-203-SC1002' decimals='2' unitRef='U-Monetary'>1000</je:TransactionAmount>
+ 
+ 
+<!-- JE-204 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-204-SC1001'>mini:Inventories</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-204-SC1001'>mini:PurchasesOfInventoryForSale</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-204-SC1001'>2024-01-10</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-204-SC1001'>Purchase of lemons to put intoinventory on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-204-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-204-SC1001' decimals='2' unitRef='U-Monetary'>5000</je:TransactionAmount>
+ 
+ 
+<!-- JE-204 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-204-SC1002'>mini:AccountsPayable</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-204-SC1002'>mini:PurchasesInventoryForSaleOnAccount</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-204-SC1002'>2024-01-10</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-204-SC1002'>Purchase of lemons to put intoinventory on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-204-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-204-SC1002' decimals='2' unitRef='U-Monetary'>5000</je:TransactionAmount>
+ 
+ 
+<!-- JE-205 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-205-SC1001'>mini:CostsOfSales</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-205-SC1001'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-205-SC1001'>2024-01-15</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-205-SC1001'>Payment for  contractor to work the lemonade stand.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-205-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-205-SC1001' decimals='2' unitRef='U-Monetary'>3000</je:TransactionAmount>
+ 
+ 
+<!-- JE-205 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-205-SC1002'>mini:AccountsPayable</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-205-SC1002'>mini:PurchasesInventoryForSaleOnAccount</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-205-SC1002'>2024-01-15</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-205-SC1002'>Payment for  contractor to work the lemonade stand.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-205-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-205-SC1002' decimals='2' unitRef='U-Monetary'>3000</je:TransactionAmount>
+ 
+ 
+<!-- JE-206 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-206-SC1001'>mini:Receivables</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-206-SC1001'>mini:IncreaseInReceivablesFromSalesOnAccount</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-206-SC1001'>2024-01-16</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-206-SC1001'>Sales on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-206-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-206-SC1001' decimals='2' unitRef='U-Monetary'>8000</je:TransactionAmount>
+ 
+ 
+<!-- JE-206 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-206-SC1002'>mini:Sales</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-206-SC1002'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-206-SC1002'>2024-01-16</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-206-SC1002'>Sales on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-206-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-206-SC1002' decimals='2' unitRef='U-Monetary'>8000</je:TransactionAmount>
+ 
+ 
+<!-- JE-206 -->
+<!-- 3 -->
+<je:TransactionAccount contextRef='D-2024-JE-206-SC1003'>mini:CostsOfSales</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-206-SC1003'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-206-SC1003'>2024-01-16</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-206-SC1003'>Costs related to sales on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-206-SC1003'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-206-SC1003' decimals='2' unitRef='U-Monetary'>2000</je:TransactionAmount>
+ 
+ 
+<!-- JE-206 -->
+<!-- 4 -->
+<je:TransactionAccount contextRef='D-2024-JE-206-SC1004'>mini:Inventories</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-206-SC1004'>mini:DecreaseInInventoriesFromSales</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-206-SC1004'>2024-01-16</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-206-SC1004'>Costs related to sales on account.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-206-SC1004'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-206-SC1004' decimals='2' unitRef='U-Monetary'>2000</je:TransactionAmount>
+ 
+ 
+<!-- JE-207 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-207-SC1001'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-207-SC1001'>mini:ProceedsFromCollectionOfReceivables</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-207-SC1001'>2024-01-20</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-207-SC1001'>Collection of accounts receivable.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-207-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-207-SC1001' decimals='2' unitRef='U-Monetary'>8000</je:TransactionAmount>
+ 
+ 
+<!-- JE-207 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-207-SC1002'>mini:Receivables</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-207-SC1002'>mini:CollectionOfReceivables</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-207-SC1002'>2024-01-20</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-207-SC1002'>Collection of accounts receivable.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-207-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-207-SC1002' decimals='2' unitRef='U-Monetary'>8000</je:TransactionAmount>
+ 
+ 
+<!-- JE-208 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-208-SC1001'>mini:AccountsPayable</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-208-SC1001'>mini:DecreaseFromPaymentAccountsPayable</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-208-SC1001'>2024-01-21</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-208-SC1001'>Payment of accounts payable.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-208-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-208-SC1001' decimals='2' unitRef='U-Monetary'>7000</je:TransactionAmount>
+ 
+ 
+<!-- JE-208 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-208-SC1002'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-208-SC1002'>mini:PaymentOfAccountsPayable</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-208-SC1002'>2024-01-21</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-208-SC1002'>Payment of accounts payable.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-208-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-208-SC1002' decimals='2' unitRef='U-Monetary'>7000</je:TransactionAmount>
+ 
+ 
+<!-- JE-209 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-209-SC1001'>mini:LongtermDebt</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-209-SC1001'>mini:RepaymentLongtermBorrowings</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-209-SC1001'>2024-01-25</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-209-SC1001'>Payment of long term debt including accrued interest.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-209-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-209-SC1001' decimals='2' unitRef='U-Monetary'>1000</je:TransactionAmount>
+ 
+ 
+<!-- JE-209 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-209-SC1002'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-209-SC1002'>mini:PaymentForReductionOfLongtermBorrowings</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-209-SC1002'>2024-01-25</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-209-SC1002'>Payment of long term debt including accrued interest.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-209-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-209-SC1002' decimals='2' unitRef='U-Monetary'>1000</je:TransactionAmount>
+ 
+ 
+<!-- JE-209 -->
+<!-- 3 -->
+<je:TransactionAccount contextRef='D-2024-JE-209-SC1003'>mini:CashAndCashEquivalents</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-209-SC1003'>mini:PaymentOfInterest</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-209-SC1003'>2024-01-25</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-209-SC1003'>Payment of long term debt including accrued interest.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-209-SC1003'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-209-SC1003' decimals='2' unitRef='U-Monetary'>150</je:TransactionAmount>
+ 
+ 
+<!-- JE-209 -->
+<!-- 4 -->
+<je:TransactionAccount contextRef='D-2024-JE-209-SC1004'>mini:AccruedExpenses</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-209-SC1004'>mini:DecreaseFromPaymentOfInterest</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-209-SC1004'>2024-01-25</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-209-SC1004'>Payment of long term debt including accrued interest.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-209-SC1004'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-209-SC1004' decimals='2' unitRef='U-Monetary'>150</je:TransactionAmount>
+ 
+ 
+<!-- JE-210 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-210-SC1001'>mini:InterestExpense</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-210-SC1001'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-210-SC1001'>2024-01-24</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-210-SC1001'>Accrual of interest on debt.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-210-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-210-SC1001' decimals='2' unitRef='U-Monetary'>150</je:TransactionAmount>
+ 
+ 
+<!-- JE-210 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-210-SC1002'>mini:AccruedExpenses</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-210-SC1002'>mini:InterestAccrued</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-210-SC1002'>2024-01-24</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-210-SC1002'>Accrual of interest on debt.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-210-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-210-SC1002' decimals='2' unitRef='U-Monetary'>150</je:TransactionAmount>
+ 
+ 
+<!-- JE-223 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-223-SC1001'>mini:CostsOfSales</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-223-SC1001'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-223-SC1001'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-223-SC1001'>Closing entry. Inventory write offs, adjust to physical.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-223-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-223-SC1001' decimals='2' unitRef='U-Monetary'>300</je:TransactionAmount>
+ 
+ 
+<!-- JE-223 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-223-SC1002'>mini:Inventories</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-223-SC1002'>mini:InventoryWrittenOff</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-223-SC1002'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-223-SC1002'>Closing entry. Inventory write offs, adjust to physical.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-223-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-223-SC1002' decimals='2' unitRef='U-Monetary'>300</je:TransactionAmount>
+ 
+ 
+<!-- JE-224 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-224-SC1001'>mini:DepreciationAndAmortization</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-224-SC1001'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-224-SC1001'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-224-SC1001'>Closing entry. Depreciation and amortization expensed.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-224-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-224-SC1001' decimals='2' unitRef='U-Monetary'>100</je:TransactionAmount>
+ 
+ 
+<!-- JE-224 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-224-SC1002'>mini:PropertyPlantAndEquipment</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-224-SC1002'>mini:DecreaseFromDepreciationAndAmortization</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-224-SC1002'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-224-SC1002'>Closing entry. Depreciation and amortization expensed.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-224-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-224-SC1002' decimals='2' unitRef='U-Monetary'>100</je:TransactionAmount>
+ 
+ 
+<!-- JE-225 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-225-SC1001'>mini:PropertyPlantAndEquipment</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-225-SC1001'>mini:PropertyPlantAndEquipmentWrittenOff</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-225-SC1001'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-225-SC1001'>Closing entry. Write of of PPE.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-225-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-225-SC1001' decimals='2' unitRef='U-Monetary'>0</je:TransactionAmount>
+ 
+ 
+<!-- JE-225 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-225-SC1002'>mini:NonoperatingIncomeExpenses</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-225-SC1002'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-225-SC1002'>2024-01-28</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-225-SC1002'>Closing entry. Write of of PPE.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-225-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-225-SC1002' decimals='2' unitRef='U-Monetary'>0</je:TransactionAmount>
+ 
+ 
+<!-- JE-226 -->
+<!-- 1 -->
+<je:TransactionAccount contextRef='D-2024-JE-226-SC1001'>mini:IncomeTaxExpenseBenefit</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-226-SC1001'>mini:NetIncomeLoss</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-226-SC1001'>2024-01-29</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-226-SC1001'>Closing entry.  Book taxes.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-226-SC1001'>D</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-226-SC1001' decimals='2' unitRef='U-Monetary'>400</je:TransactionAmount>
+ 
+ 
+<!-- JE-226 -->
+<!-- 2 -->
+<je:TransactionAccount contextRef='D-2024-JE-226-SC1002'>mini:AccruedExpenses</je:TransactionAccount>
+<je:TransactionCategory contextRef='D-2024-JE-226-SC1002'>mini:InterestAccrued</je:TransactionCategory>
+<je:TransactionDate contextRef='D-2024-JE-226-SC1002'>2024-01-29</je:TransactionDate>
+<je:TransactionDescription contextRef='D-2024-JE-226-SC1002'>Closing entry.  Book taxes.</je:TransactionDescription>
+<je:TransactionBalanceType contextRef='D-2024-JE-226-SC1002'>C</je:TransactionBalanceType>
+<je:TransactionAmount contextRef='D-2024-JE-226-SC1002' decimals='2' unitRef='U-Monetary'>400</je:TransactionAmount>
+ 
+ 
+
+</xbrl>

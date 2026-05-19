@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--
+Taxonomy based on XBRL standard Version 2.1.
+Created by UBmatrix Taxonomy Designer 3.0.2.2347 (2007-12-17 12:39).
+Contact www.ubmatrix.com
+Copyright (c) 2002-2020 UBmatrix inc., All Rights Reserved
+Produced on 2020-03-31 14:48:08
+-->
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:je="http://www.xbrlsite.com/je" xmlns:generic="http://xbrl.org/2008/generic" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:entry="http://xbrlsite.com/je/entry" xmlns:sequence="http://xbrlsite.com/je/sequence" targetNamespace="http://www.xbrlsite.com/je" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <annotation>
+    <appinfo>
+      <link:roleType roleURI="http://www.xbrlsite.com/basic/role/Transactions" id="Transactions">
+        <link:definition>0000 - Support - Transactions</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>generic:link</link:usedOn>
+      </link:roleType>
+      <link:linkbaseRef xlink:type="simple" xlink:href="journalEntries-label.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Label Links, all" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="journalEntries-definition.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Definition Links, all" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="journalEntries-presentation.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Presentation Links, all" />
+    </appinfo>
+  </annotation>
+  <import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+  <import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" />
+  <import namespace="http://www.xbrl.org/dtr/type/non-numeric" schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" />
+  <import namespace="http://www.xbrl.org/2009/arcrole/fact-explanatoryFact" schemaLocation="http://www.xbrl.org/lrr/arcrole/factExplanatory-2009-12-16.xsd" />
+  <import namespace="http://www.xbrl.org/2009/role/negated" schemaLocation="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd" />
+  <import namespace="http://www.xbrl.org/2009/role/net" schemaLocation="http://www.xbrl.org/lrr/role/net-2009-12-16.xsd" />
+  <import namespace="http://www.xbrl.org/dtr/type/numeric" schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" />
+  <import namespace="http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm-arcroles" schemaLocation="http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm-arcroles.xsd" />
+  <import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+
+  <import namespace="http://xbrlsite.com/je/entry" schemaLocation="entries.xsd" />
+  <import namespace="http://xbrlsite.com/je/sequence" schemaLocation="sequence.xsd" />
+
+  <element id="je_EntryDimension" name="EntryDimension" type="xbrli:stringItemType" substitutionGroup="xbrldt:dimensionItem" xbrli:periodType="duration" abstract="true" nillable="true" xbrldt:typedDomainRef="entries.xsd#entry_EntryCode" />
+  <element id="je_JournalHypercube" name="JournalHypercube" type="xbrli:stringItemType" substitutionGroup="xbrldt:hypercubeItem" xbrli:periodType="duration" abstract="true" nillable="true" />
+  <element id="je_JournalLineItems" name="JournalLineItems" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" abstract="true" nillable="true" />
+  <element id="je_JournalSet" name="JournalSet" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" abstract="true" nillable="true" />
+  <element id="je_SequenceDimension" name="SequenceDimension" type="xbrli:stringItemType" substitutionGroup="xbrldt:dimensionItem" xbrli:periodType="duration" abstract="true" nillable="true" xbrldt:typedDomainRef="sequence.xsd#sequence_SequenceCode" />
+  <element id="je_TransactionAccount" name="TransactionAccount" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" />
+  <element id="je_TransactionAmount" name="TransactionAmount" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" xbrli:balance="debit" nillable="true" />
+  <element id="je_TransactionBalanceType" name="TransactionBalanceType" type="xbrli:tokenItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" />
+  <element id="je_TransactionCategory" name="TransactionCategory" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" />
+  <element id="je_TransactionDate" name="TransactionDate" type="xbrli:dateItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" />
+  <element id="je_TransactionDescription" name="TransactionDescription" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" />
+</schema>

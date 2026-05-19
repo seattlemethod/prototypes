@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Charles Hoffman 2019-10-27 -->
+<schema
+   xmlns="http://www.w3.org/2001/XMLSchema"
+   xmlns:sequence="http://xbrlsite.com/je/sequence"
+   targetNamespace="http://xbrlsite.com/je/sequence"
+   elementFormDefault="qualified"
+   attributeFormDefault="unqualified">
+
+  <element name='SequenceCode' id='sequence_SequenceCode'>
+      <simpleType>
+          <restriction base="string">
+              <pattern value='SC[0-9][0-9][0-9][0-9]' />
+          </restriction>
+      </simpleType>
+  </element>
+
+</schema>

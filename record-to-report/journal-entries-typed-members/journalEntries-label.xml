@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--
+Taxonomy Label Links linkbase based on XBRL standard Version 2.1.
+Created by UBmatrix Taxonomy Designer 3.0.2.2347 (2007-12-17 12:39).  
+Contact www.ubmatrix.com
+Copyright (c) 2002-2020 UBmatrix inc., All Rights Reserved
+Produced on 2020-03-31 14:48:08
+-->
+<linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation=" http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+  <labelLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_EntryDimension" xlink:label="je_EntryDimension" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_EntryDimension" xlink:to="je_EntryDimension_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_EntryDimension_lbl" xml:lang="en">Entry [Dimension]</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalHypercube" xlink:label="je_JournalHypercube" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_JournalHypercube" xlink:to="je_JournalHypercube_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_JournalHypercube_lbl" xml:lang="en">Journal [Hypercube]</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalLineItems" xlink:label="je_JournalLineItems" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_JournalLineItems" xlink:to="je_JournalLineItems_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_JournalLineItems_lbl" xml:lang="en">Journal [Line Items]</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_JournalSet" xlink:label="je_JournalSet" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_JournalSet" xlink:to="je_JournalSet_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_JournalSet_lbl" xml:lang="en">Journal [Set]</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_SequenceDimension" xlink:label="je_SequenceDimension" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_SequenceDimension" xlink:to="je_SequenceDimension_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_SequenceDimension_lbl" xml:lang="en">Sequence [Dimension]</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionAccount" xlink:label="je_TransactionAccount" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionAccount" xlink:to="je_TransactionAccount_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionAccount_lbl" xml:lang="en">Transaction Account</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionAmount" xlink:label="je_TransactionAmount" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionAmount" xlink:to="je_TransactionAmount_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionAmount_lbl" xml:lang="en">Transaction Amount</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionBalanceType" xlink:label="je_TransactionBalanceType" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionBalanceType" xlink:to="je_TransactionBalanceType_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionBalanceType_lbl" xml:lang="en">Transaction Balance Type</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionCategory" xlink:label="je_TransactionCategory" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionCategory" xlink:to="je_TransactionCategory_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionCategory_lbl" xml:lang="en">Transaction Category</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionDate" xlink:label="je_TransactionDate" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionDate" xlink:to="je_TransactionDate_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionDate_lbl" xml:lang="en">Transaction Date</label>
+    <loc xlink:type="locator" xlink:href="journalEntries.xsd#je_TransactionDescription" xlink:label="je_TransactionDescription" />
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="je_TransactionDescription" xlink:to="je_TransactionDescription_lbl" />
+    <label xlink:type="resource" xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="je_TransactionDescription_lbl" xml:lang="en">Transaction Description</label>
+  </labelLink>
+</linkbase>
