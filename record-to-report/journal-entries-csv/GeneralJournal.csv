@@ -1,0 +1,33 @@
+﻿JournalEntryID,EconomicEntityIdentifier,TransactionPeriod,GeneralLedgerAccountCode,TransactionDescriptionCode,Amount,Units,Rounding,Balance,EffectiveValue,Sequence,Account,Key,TransactionDescription,Flag
+JE-201,30810137d58f76b84afd,2024-01-01,mini:CashAndCashEquivalents,mini:ProceedsFromInvestmentsByOwner,10000,iso4217:USD,2,D,10000,1,000-1100-00,176,Investment by owner to open a lemonade stand.,FALSE
+JE-201,30810137d58f76b84afd,2024-01-01,mini:PaidInCapital,mini:InvestmentsByOwner,10000,iso4217:USD,2,C,-10000,2,000-3100-00,177,Investment by owner to open a lemonade stand.,FALSE
+JE-202,30810137d58f76b84afd,2024-01-02,mini:CashAndCashEquivalents,mini:ProceedsFromAdditionalLongtermBorrowings,2000,iso4217:USD,2,D,2000,1,000-1100-00,178,Long term borrowing to purchase refrigerator.,FALSE
+JE-202,30810137d58f76b84afd,2024-01-02,mini:LongtermDebt,mini:AdditionalLongtermBorrowings,2000,iso4217:USD,2,C,-2000,2,000-2300-00,179,Long term borrowing to purchase refrigerator.,FALSE
+JE-203,30810137d58f76b84afd,2024-01-05,mini:PropertyPlantAndEquipment,mini:CapitalAdditionsPropertyPlantAndEquipment,1000,iso4217:USD,2,D,1000,1,000-1500-00,180,Purchase of refrigerator  using cash from additional borrowings.,FALSE
+JE-203,30810137d58f76b84afd,2024-01-05,mini:CashAndCashEquivalents,mini:PaymentForCapitalAdditionsOfPropertyPlantEquipment,1000,iso4217:USD,2,C,-1000,2,000-1100-00,181,Purchase of refrigerator using cash from additional borrowings.,FALSE
+JE-210,30810137d58f76b84afd,2024-01-24,mini:AccruedExpenses,mini:InterestAccrued,150,iso4217:USD,2,C,-150,2,000-2160-00,198,Accrual of interest on debt.,FALSE
+JE-223,30810137d58f76b84afd,2024-01-28,mini:CostsOfSales,mini:NetIncomeLoss,300,iso4217:USD,2,D,300,1,000-5100-00,203,"Closing entry. Inventory write offs, adjust to physical.",FALSE
+JE-223,30810137d58f76b84afd,2024-01-28,mini:Inventories,mini:InventoryWrittenOff,300,iso4217:USD,2,C,-300,2,000-1300-00,204,"Closing entry. Inventory write offs, adjust to physical.",FALSE
+JE-224,30810137d58f76b84afd,2024-01-28,mini:DepreciationAndAmortization,mini:NetIncomeLoss,100,iso4217:USD,2,D,100,1,000-5200-00,205,Closing entry. Depreciation and amortization expensed.,FALSE
+JE-224,30810137d58f76b84afd,2024-01-28,mini:PropertyPlantAndEquipment,mini:DecreaseFromDepreciationAndAmortization,100,iso4217:USD,2,C,-100,2,000-1500-00,206,Closing entry. Depreciation and amortization expensed.,FALSE
+JE-225,30810137d58f76b84afd,2024-01-28,mini:PropertyPlantAndEquipment,mini:PropertyPlantAndEquipmentWrittenOff,0,iso4217:USD,2,D,0,1,000-1500-00,207,Closing entry. Write of of PPE.,FALSE
+JE-225,30810137d58f76b84afd,2024-01-28,mini:NonoperatingIncomeExpenses,mini:NetIncomeLoss,0,iso4217:USD,2,C,0,2,000-5500-00,208,Closing entry. Write of of PPE.,FALSE
+JE-226,30810137d58f76b84afd,2024-01-29,mini:IncomeTaxExpenseBenefit,mini:NetIncomeLoss,400,iso4217:USD,2,D,400,1,000-6100-00,209,Closing entry.  Book taxes.,FALSE
+JE-226,30810137d58f76b84afd,2024-01-29,mini:AccruedExpenses,mini:InterestAccrued,400,iso4217:USD,2,C,-400,2,000-2160-00,210,Closing entry.  Book taxes.,FALSE
+JE-209,30810137d58f76b84afd,2024-01-25,mini:CashAndCashEquivalents,mini:PaymentOfInterest,150,iso4217:USD,2,C,-150,3,000-1100-00,211,Payment of long term debt including accrued interest.,FALSE
+JE-204,30810137d58f76b84afd,2024-01-10,mini:Inventories,mini:PurchasesOfInventoryForSale,5000,iso4217:USD,2,D,5000,1,000-1300-00,182,Purchase of lemons to put intoinventory on account.,FALSE
+JE-204,30810137d58f76b84afd,2024-01-10,mini:AccountsPayable,mini:PurchasesInventoryForSaleOnAccount,5000,iso4217:USD,2,C,-5000,2,000-2150-00,183,Purchase of lemons to put intoinventory on account.,FALSE
+JE-205,30810137d58f76b84afd,2024-01-15,mini:CostsOfSales,mini:NetIncomeLoss,3000,iso4217:USD,2,D,3000,1,000-5100-00,184,Payment for  contractor to work the lemonade stand.,FALSE
+JE-205,30810137d58f76b84afd,2024-01-15,mini:AccountsPayable,mini:PurchasesInventoryForSaleOnAccount,3000,iso4217:USD,2,C,-3000,2,000-2150-00,185,Payment for  contractor to work the lemonade stand.,FALSE
+JE-206,30810137d58f76b84afd,2024-01-16,mini:Receivables,mini:IncreaseInReceivablesFromSalesOnAccount,8000,iso4217:USD,2,D,8000,1,000-1200-00,186,Sales on account.,FALSE
+JE-206,30810137d58f76b84afd,2024-01-16,mini:Sales,mini:NetIncomeLoss,8000,iso4217:USD,2,C,-8000,2,000-4100-00,187,Sales on account.,FALSE
+JE-206,30810137d58f76b84afd,2024-01-16,mini:CostsOfSales,mini:NetIncomeLoss,2000,iso4217:USD,2,D,2000,3,000-5100-00,188,Costs related to sales on account.,FALSE
+JE-206,30810137d58f76b84afd,2024-01-16,mini:Inventories,mini:DecreaseInInventoriesFromSales,2000,iso4217:USD,2,C,-2000,4,000-1300-00,189,Costs related to sales on account.,FALSE
+JE-207,30810137d58f76b84afd,2024-01-20,mini:CashAndCashEquivalents,mini:ProceedsFromCollectionOfReceivables,8000,iso4217:USD,2,D,8000,1,000-1100-00,190,Collection of accounts receivable.,FALSE
+JE-207,30810137d58f76b84afd,2024-01-20,mini:Receivables,mini:CollectionOfReceivables,8000,iso4217:USD,2,C,-8000,2,000-1200-00,191,Collection of accounts receivable.,FALSE
+JE-208,30810137d58f76b84afd,2024-01-21,mini:AccountsPayable,mini:DecreaseFromPaymentAccountsPayable,7000,iso4217:USD,2,D,7000,1,000-2150-00,192,Payment of accounts payable.,FALSE
+JE-208,30810137d58f76b84afd,2024-01-21,mini:CashAndCashEquivalents,mini:PaymentOfAccountsPayable,7000,iso4217:USD,2,C,-7000,2,000-1100-00,193,Payment of accounts payable.,FALSE
+JE-209,30810137d58f76b84afd,2024-01-25,mini:LongtermDebt,mini:RepaymentLongtermBorrowings,1000,iso4217:USD,2,D,1000,1,000-2300-00,194,Payment of long term debt including accrued interest.,FALSE
+JE-209,30810137d58f76b84afd,2024-01-25,mini:CashAndCashEquivalents,mini:PaymentForReductionOfLongtermBorrowings,1000,iso4217:USD,2,C,-1000,2,000-1100-00,195,Payment of long term debt including accrued interest.,FALSE
+JE-209,30810137d58f76b84afd,2024-01-25,mini:AccruedExpenses,mini:DecreaseFromPaymentOfInterest,150,iso4217:USD,2,D,150,4,000-2160-00,196,Payment of long term debt including accrued interest.,FALSE
+JE-210,30810137d58f76b84afd,2024-01-24,mini:InterestExpense,mini:NetIncomeLoss,150,iso4217:USD,2,D,150,1,000-5400-00,197,Accrual of interest on debt.,FALSE
