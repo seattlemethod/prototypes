@@ -1,0 +1,25 @@
+﻿Line,StandardLineItem,StandardBusinessEvent,Amount,Count
+1,mini:CashAndCashEquivalents,mini:OpeningBalance,"398,937.90", 11 
+2,mini:CashAndCashEquivalents,mini:PaymentOfAccountsPayable,"-3,119,538.20"," 1,993 "
+3,mini:CashAndCashEquivalents,mini:ProceedsFromCollectionOfReceivables,"2,072,040.60", 402 
+4,mini:Receivables,mini:OpeningBalance,"1,231,338.50", 9 
+5,mini:Receivables,mini:CollectionOfReceivables,"-2,038,353.80", 459 
+6,mini:Receivables,mini:IncreaseInReceivablesFromSalesOnAccount,"2,842,484.10", 536 
+7,mini:Inventories,mini:OpeningBalance,"467,010.20", 5 
+8,mini:Inventories,mini:DecreaseInInventoriesFromSales,"-1,543,607.00", 549 
+9,mini:Inventories,mini:PurchasesOfInventoryForSale,"1,528,436.70", 344 
+10,mini:PropertyPlantAndEquipment,mini:OpeningBalance,"1,266,995.30", 10 
+11,mini:PropertyPlantAndEquipment,mini:DecreaseFromDepreciationAndAmortization,"-21,428.00", 5 
+12,mini:AccountsPayable,mini:OpeningBalance,"-1,595,349.60", 49 
+13,mini:AccountsPayable,mini:DecreaseFromPaymentAccountsPayable,"1,889,640.10", 418 
+14,mini:AccountsPayable,mini:PurchasesInventoryForSaleOnAccount,"-2,983,790.20"," 8,434 "
+15,mini:LongtermDebt,mini:OpeningBalance,"-361,285.70", 5 
+16,mini:LongtermDebt,mini:AdditionalLongtermBorrowings,"-11,458.10", 2 
+17,mini:LongtermDebt,mini:RepaymentLongtermBorrowings,"34,394.80", 16 
+18,mini:PaidInCapital,mini:OpeningBalance,"-1,407,646.70", 9 
+19,mini:Sales,mini:NetIncomeLoss,"-2,604,057.00", 615 
+20,mini:CostsOfSales,mini:NetIncomeLoss,"886,044.90", 568 
+21,mini:DepreciationAndAmortization,mini:NetIncomeLoss,"21,428.00", 5 
+22,mini:SalesGeneralAndAdministrativeExpenses,mini:NetIncomeLoss,"3,049,929.60"," 7,822 "
+23,mini:InterestExpense,mini:NetIncomeLoss,"-2,165.90", 22 
+24,All LineItems,All Business Events,0.50," 22,288 "
