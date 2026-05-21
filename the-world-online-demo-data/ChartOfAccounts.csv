@@ -1,0 +1,239 @@
+﻿glAccountNumber,userDefined1,userDefined2
+000-1100-00,Cash - Operating Account,mini:CashAndCashEquivalents
+000-1101-00,Cash in Bank - Canada,mini:CashAndCashEquivalents
+000-1102-00,Cash in Bank - Australia,mini:CashAndCashEquivalents
+000-1103-00,Cash in Bank - New Zealand,mini:CashAndCashEquivalents
+000-1105-00,Cash in Bank - United Kingdom,mini:CashAndCashEquivalents
+000-1106-00,Cash in Bank - South Africa,mini:CashAndCashEquivalents
+000-1107-00,Cash in Bank - Singapore,mini:CashAndCashEquivalents
+000-1110-00,Cash - Payroll,mini:CashAndCashEquivalents
+000-1120-00,Cash - Flex Benefits Program,mini:CashAndCashEquivalents
+000-1130-00,Petty Cash,mini:CashAndCashEquivalents
+000-1140-00,Savings,mini:CashAndCashEquivalents
+000-1200-00,Accounts Receivable,mini:Receivables
+000-1205-00,Sales Discounts Available,mini:Receivables
+000-1210-00,Allowance for Doubtful Accounts,mini:Receivables
+000-1220-01,Credit Card Receivable-AmericaCharge,mini:Receivables
+000-1230-00,Interest Receivable,mini:Receivables
+000-1240-00,Notes Receivable,mini:Receivables
+000-1260-00,Employee Advances,mini:Receivables
+000-1271-00,Accounts Receivable - Canada,mini:Receivables
+000-1272-00,Accounts Receivables - Australia,mini:Receivables
+000-1273-00,Accounts Receivable - New Zealand,mini:Receivables
+000-1275-00,Accounts Receivable - United Kingdom,mini:Receivables
+000-1276-00,Accounts Receivable - South Africa,mini:Receivables
+000-1277-00,Accounts Receivable - Singapore,mini:Receivables
+000-1300-01,Inventory - Retail/Parts,mini:Inventories
+000-1300-02,Inventory - Finished Goods,mini:Inventories
+000-1310-01,Inventory Warehouse - Retail/Parts,mini:Inventories
+000-1312-00,Inventory Offset,mini:Inventories
+000-1360-01,WIP - Material,mini:Inventories
+000-1360-04,WIP - Labor,mini:Inventories
+000-1400-00,Prepaid Expenses,mini:Inventories
+000-1410-00,Prepaid Insurance,mini:Inventories
+000-1500-00,Furniture & Fixtures,mini:PropertyPlantAndEquipment
+000-1505-00,Accumulated Depreciation-Furniture & Fixtures,mini:PropertyPlantAndEquipment
+000-1510-00,Computer Equipment,mini:PropertyPlantAndEquipment
+000-1515-00,Accumulated Depreciation-Computer Equipment,mini:PropertyPlantAndEquipment
+000-1520-00,Machinery & Equipment,mini:PropertyPlantAndEquipment
+000-1525-00,Accumulated Depreciation-Machinery & Equipment,mini:PropertyPlantAndEquipment
+000-1530-00,Fleet Vehicles,mini:PropertyPlantAndEquipment
+000-1535-00,Accumulated Depreciation-Fleet Vehicles,mini:PropertyPlantAndEquipment
+000-1600-00,Computer Software,mini:PropertyPlantAndEquipment
+000-1610-00,Amortized Software Costs,mini:PropertyPlantAndEquipment
+000-2100-00,Accounts Payable,mini:AccountsPayable
+000-2101-01,Accounts Payable - Canada,mini:AccountsPayable
+000-2101-02,Accounts Payable - Australia,mini:AccountsPayable
+000-2101-03,Accounts Payable - New Zealand,mini:AccountsPayable
+000-2101-05,Accounts Payable - United Kingdom,mini:AccountsPayable
+000-2101-06,Accounts Payable - South Africa,mini:AccountsPayable
+000-2101-07,Accounts Payable - Singapore,mini:AccountsPayable
+000-2105-00,Purchases Discounts Available,mini:AccountsPayable
+000-2110-00,Accrued Expenses,mini:AccountsPayable
+000-2111-00,Accrued Purchases,mini:AccountsPayable
+000-2120-00,Commissions Payable,mini:AccountsPayable
+000-2140-00,Accrued Vacation Payable,mini:AccountsPayable
+000-2150-00,Taxable Benefits Payable,mini:AccountsPayable
+000-2161-00,IL State Withholding Payable,mini:AccountsPayable
+000-2162-00,NE State Witholding Payable,mini:AccountsPayable
+000-2163-00,IN State Witholding Payable,mini:AccountsPayable
+000-2164-00,MN State Withholding Payable,mini:AccountsPayable
+000-2165-00,MO State Withholding Payable,mini:AccountsPayable
+000-2166-00,Bloomington City Withholding Tax Payable,mini:AccountsPayable
+000-2170-00,Federal Withholding Payable,mini:AccountsPayable
+000-2175-00,FICA Payable,mini:AccountsPayable
+000-2180-00,FUTA Payable,mini:AccountsPayable
+000-2191-00,IL State SUTA Payable,mini:AccountsPayable
+000-2200-00,Payroll Deductions Payable,mini:AccountsPayable
+000-2210-00,401(k) Payable,mini:AccountsPayable
+000-2220-00,Insurance Premiums Payable,mini:AccountsPayable
+000-2230-00,Medical Reimbursement Payable,mini:AccountsPayable
+000-2240-00,Dependent Care Payable,mini:AccountsPayable
+000-2270-00,IL Workers Compensation Payable,mini:AccountsPayable
+000-2272-00,IN Workers Compensation Payable,mini:AccountsPayable
+000-2275-00,Ontario Workers Compensation Payable,mini:AccountsPayable
+000-2276-00,Alberta Workers Compensation Payable,mini:AccountsPayable
+000-2277-00,Quebec Workers Compensation Payable,mini:AccountsPayable
+000-2280-00,RRSP Payable,mini:AccountsPayable
+000-2281-00,CPP Payable,mini:AccountsPayable
+000-2282-00,QPP Payable,mini:AccountsPayable
+000-2283-00,UIC Payable,mini:AccountsPayable
+000-2284-00,Quebec Withholding Payable,mini:AccountsPayable
+000-2300-00,IL State Sales Tax Payable,mini:AccountsPayable
+000-2310-00,Chicago City Sales Tax Payable,mini:AccountsPayable
+000-2320-00,GST Collected-Canada,mini:AccountsPayable
+000-2321-00,GST Input Tax Credit-Canada,mini:AccountsPayable
+000-2330-00,Australia Sales Tax Payable,mini:AccountsPayable
+000-2340-00,GST Collected -New Zealand,mini:AccountsPayable
+000-2341-00,GST Input Tax Credit-New Zealand,mini:AccountsPayable
+000-2410-00,Freight Payable,mini:AccountsPayable
+000-2420-00,Brokerage Fees Payable,mini:AccountsPayable
+000-2430-00,Miscellaneous Payable,mini:AccountsPayable
+000-2500-00,Interest Payable,mini:AccountsPayable
+000-2600-00,Federal Income Tax Payable,mini:AccountsPayable
+000-2610-00,IL Income Tax Payable,mini:AccountsPayable
+000-2710-00,Operating Line of Credit,mini:AccountsPayable
+000-2720-00,Client Deposits,mini:AccountsPayable
+000-2730-00,Purchases Clearing Account,mini:AccountsPayable
+000-2735-00,Purchases Clearing Acct for Inventory,mini:AccountsPayable
+000-2740-00,Advances from Customers,mini:AccountsPayable
+000-2800-00,Current N/P on Vehicles,mini:LongtermDebt
+000-2820-00,Current N/P to Stockholders,mini:LongtermDebt
+000-2900-00,Notes Payable on Vehicles,mini:LongtermDebt
+000-2920-00,Notes Payable to Stockholders,mini:LongtermDebt
+000-2930-00,Capital Leases Payable,mini:LongtermDebt
+000-2950-01,PPV - Unrealized,mini:LongtermDebt
+000-3010-00,Common Stock,mini:PaidInCapital
+000-3020-00,Additional Paid-In Capital-Common Stock,mini:PaidInCapital
+000-3030-00,Retained Earnings,mini:PaidInCapital
+000-4100-00,Sales,mini:Sales
+000-4110-01,US Sales - Retail/Parts,mini:Sales
+000-4110-02,US Sales - Finished Goods,mini:Sales
+000-4111-01,Canadian Sales - Retail/Parts,mini:Sales
+000-4112-01,AustralAsian Sales - Retail/Parts,mini:Sales
+000-4112-02,AustralAsian Sales - Finished Goods,mini:Sales
+000-4115-01,United Kingdom Sales - Retail/Parts,mini:Sales
+000-4115-02,United Kingdom Sales - Finished Goods,mini:Sales
+000-4116-01,South Africa - Retail/Parts,mini:Sales
+000-4117-01,Singapore Sales - Retail/Parts,mini:Sales
+000-4117-02,Singapore Sales - Finished Goods,mini:Sales
+000-4120-00,US Sales - Service Plans,mini:Sales
+000-4122-00,AustralAsian Sales - Service Plans,mini:Sales
+000-4130-00,US Sales - Installation Charges,mini:Sales
+000-4132-00,AustralAsian Sales - Installation Charges,mini:Sales
+000-4140-00,US Sales - Repair Charges,mini:Sales
+000-4141-00,Canadian Sales - Repair Charges,mini:Sales
+000-4142-00,AustralAsian Sales - Repair Charges,mini:Sales
+000-4180-00,US Sales Discounts,mini:Sales
+000-4183-00,US Sales Trade Discounts,mini:Sales
+000-4190-00,US Sales Returns,mini:Sales
+000-4510-01,Cost of Goods Sold - Retail/Parts,mini:CostsOfSales
+000-4510-02,Cost of Goods Sold - Finished Goods,mini:CostsOfSales
+000-4600-00,Purchases Discounts Taken,mini:CostsOfSales
+000-4700-00,Shrinkage and Waste,mini:CostsOfSales
+000-4710-00,Freight and Handling,mini:CostsOfSales
+000-4720-00,International Freight and Handling,mini:CostsOfSales
+000-4730-00,Purchase Price Variance - Unrealized,mini:CostsOfSales
+000-4731-00,Withholding offset,mini:CostsOfSales
+000-5100-00,Salaries and Wages,mini:SalesGeneralAndAdministrativeExpenses
+000-6200-00,Depreciation Expense - Furniture & Fixtures,mini:DepreciationAndAmortization
+000-6210-00,Depreciation Expense - Computer Equipment,mini:DepreciationAndAmortization
+000-6220-00,Depreciation Expense - Machinery & Equipment,mini:DepreciationAndAmortization
+000-6230-00,Depreciation Expense - Fleet Vehicles,mini:DepreciationAndAmortization
+000-6300-00,Amortization - Software,mini:DepreciationAndAmortization
+000-6400-00,Life Insurance - Administration,mini:SalesGeneralAndAdministrativeExpenses
+000-6410-00,Vehicle Insurance,mini:SalesGeneralAndAdministrativeExpenses
+000-6420-00,Liability Insurance,mini:SalesGeneralAndAdministrativeExpenses
+000-6430-00,Casualty Insurance,mini:SalesGeneralAndAdministrativeExpenses
+000-6600-00,Bank Fees,mini:SalesGeneralAndAdministrativeExpenses
+000-6610-00,Advertising Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6620-00,Direct Mail Advertising Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6630-00,IL State Sales Tax Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6640-00,Chicago City Sales Tax Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6650-00,Australia Sales Tax Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6700-00,Bad Debts Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6710-00,Collection Costs,mini:SalesGeneralAndAdministrativeExpenses
+000-6730-00,Accounting Fees,mini:SalesGeneralAndAdministrativeExpenses
+000-6750-00,Licenses & Fees,mini:SalesGeneralAndAdministrativeExpenses
+000-6760-00,Recruiting & Moving Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6770-00,Company Meetings,mini:SalesGeneralAndAdministrativeExpenses
+000-6780-00,Miscellaneous Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-6790-00,Warranty Expense,mini:SalesGeneralAndAdministrativeExpenses
+000-7010-00,Finance Charge Income,mini:InterestExpense
+000-7020-00,Interest Income,mini:InterestExpense
+000-7040-00,Miscellaneous Income,mini:InterestExpense
+000-7401-00,Rounding Difference - Canada,mini:InterestExpense
+000-7402-00,Rounding Difference - Australia,mini:InterestExpense
+000-8020-00,Interest Expense,mini:InterestExpense
+000-8200-00,Realized Loss on MC Transactions,mini:InterestExpense
+100-5150-00,Employee Benefits - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-5170-00,Payroll Taxes - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6100-00,Training - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6110-00,Company Car - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6130-00,Supplies/Hardware - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6140-00,Supplies/Software - Administation,mini:SalesGeneralAndAdministrativeExpenses
+100-6150-00,Supplies-Allocated - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6160-00,Dues & Subscriptions - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6170-00,Repairs & Maintenance - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6180-00,Rent Expense - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6190-00,Utilities Expense - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6500-00,Postage/Freight - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6510-00,Telephone - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6520-00,Travel - Administration,mini:SalesGeneralAndAdministrativeExpenses
+100-6530-00,Meals/Entertainment - Administration,mini:SalesGeneralAndAdministrativeExpenses
+200-5170-00,Payroll Taxes - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6100-00,Training - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6130-00,Supplies/Hardware - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6140-00,Supplies/Software - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6150-00,Supplies-Allocated - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6170-00,Repairs & Maintenance - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6180-00,Rent Expense - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6190-00,Utilities Expense - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6500-00,Postage/Freight  - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+200-6510-00,Telephone - Accounting,mini:SalesGeneralAndAdministrativeExpenses
+300-5130-00,Commissions - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6100-00,Training - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6140-00,Supplies/Software - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6150-00,Supplies-Allocated - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6160-00,Dues & Subscriptions - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6170-00,Repairs & Maintenance - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6180-00,Rent Expense - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6190-00,Utilities Expense - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6500-00,Postage/Freight - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6510-00,Telephone - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6520-00,Travel - Sales,mini:SalesGeneralAndAdministrativeExpenses
+300-6530-00,Meals/Entertainment - Sales,mini:SalesGeneralAndAdministrativeExpenses
+400-5600-00,Contract Services - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6100-00,Training - Service/installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6110-00,Fleet Vehicle Expense,mini:SalesGeneralAndAdministrativeExpenses
+400-6120-00,Supplies/Rental - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6150-00,Supplies-Allocated - Services/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6160-00,Dues & Subscriptions - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6170-00,Repairs & Maintenance - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6180-00,Rent Expense - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6190-00,Utilities Expense - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6500-00,Postage/Freight - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6510-00,Telephone - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6520-00,Travel - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+400-6530-00,Meals/Entertainment - Service/Installation,mini:SalesGeneralAndAdministrativeExpenses
+500-5110-00,Overtime Pay - Consulting/Training US,mini:SalesGeneralAndAdministrativeExpenses
+500-5600-00,Contract Services - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6120-00,Supplies/Rental - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6150-00,Supplies-Allocated - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6160-00,Dues & Subscriptions - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6170-00,Repairs & Maintenance - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6180-00,Rent Expense - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6190-00,Utilities Expense - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6500-00,Postage/Freight - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6510-00,Telephone - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6520-00,Travel - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+500-6530-00,Meals/Entertainment - Consulting/Training,mini:SalesGeneralAndAdministrativeExpenses
+600-6150-00,Supplies-Allocated - Purchases/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6160-00,Dues & Subscriptions - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6170-00,Repairs & Maintenance - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6180-00,Rent Expense - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6190-00,Utilities Expense - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6500-00,Postage/Freight - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6510-00,Telephone - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+600-6520-00,Travel - Purchasing/Receiving,mini:SalesGeneralAndAdministrativeExpenses
+999-9999-99,Transfer Suspense Account,mini:InterestExpense
