@@ -1,1 +1,3 @@
+## Common With Transactions
 
+This set of files contains transaction information in the form of general ledger transactions.  Standard line item information and standard business event information is provided for each transaction entry.  This set of general ledger transactions can be use to automatically generate an XBRL based financial statement. [Here is the target which should be generated](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/common/ref-with-transactions/index2.html).  That report uses the [Common Elements Reporting Framework](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/common/base-taxonomy/common_ModelStructure.html).
