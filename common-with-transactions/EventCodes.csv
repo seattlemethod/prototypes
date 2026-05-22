@@ -1,0 +1,13 @@
+﻿userDefined2,tags,Count,Sum
+common:CurrentAssets,common:NetCashFlowOperatingActivities,4283,-258537.6
+common:CurrentAssets,common:OpeningBalance,25,2097286.6
+common:CurrentLiabilities,common:NetCashFlowOperatingActivities,8852,-1094150.1
+common:CurrentLiabilities,common:OpeningBalance,49,-1595349.6
+common:EquityAttributableToControllingInterests,common:OpeningBalance,9,-1407646.7
+common:Expenses,common:ComprehensiveIncome,8395,3957402.5
+common:Losses,common:ComprehensiveIncome,22,-2165.9
+common:NoncurrentAssets,common:Expenses,5,-21428
+common:NoncurrentAssets,common:OpeningBalance,10,1266995.3
+common:NoncurrentLiabilities,common:NetCashFlowFinancingActivities,18,22936.7
+common:NoncurrentLiabilities,common:OpeningBalance,5,-361285.7
+common:Revenues,common:ComprehensiveIncome,615,-2604057
