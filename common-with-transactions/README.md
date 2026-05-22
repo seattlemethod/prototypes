@@ -1,3 +1,5 @@
 ## Common With Transactions
 
 This set of files contains transaction information in the form of general ledger transactions.  Standard line item information and standard business event information is provided for each transaction entry.  This set of general ledger transactions can be use to automatically generate an XBRL based financial statement. [Here is the target which should be generated](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/common/ref-with-transactions/index2.html).  That report uses the [Common Elements Reporting Framework](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/common/base-taxonomy/common_ModelStructure.html).
+
+There are a total of 22,288 entries which make up 3,389 transactions. The transactions come from the same Microsoft Dynamics The World Online sample data that I used for the MINI demonstration.  What I simply did was change the mappings to the MINI reporting framework to the Common Elements reporting framework and used those elements to create the mappings.  This condenses the details that are available in the financial statement, but the process works exactly the same for generating the report.
