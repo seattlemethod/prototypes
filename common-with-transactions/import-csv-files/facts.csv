@@ -1,0 +1,34 @@
+﻿ReportingEntityAspect,CalendarPeriodAspect,ConceptAspect,FactValue,Units,Rounding,FactID,Sequence
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:CurrentAssets,1838749,iso4217:USD,2,FACT2bb65f19,2
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:NoncurrentAssets,1245566.3,iso4217:USD,2,FACT8a150345,4
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:Assets,3084315.3,iso4217:USD,2,FACTfb6fe850,52
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:CurrentLiabilities,2689499.2,iso4217:USD,2,FACT399214c3,8
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:NoncurrentLiabilities,338349,iso4217:USD,2,FACT5770b089,10
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:Liabilities,3027848.2,iso4217:USD,2,FACT16d5791b,12
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:EquityAttributableToControllingInterests,56467.1,iso4217:USD,2,FACTba130781,14
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:EquityAttributableToNoncontrollingInterests,0,iso4217:USD,2,FACTb58df521,16
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:Equity,56467.1,iso4217:USD,2,FACT78e3292d,59
+AAAAAAAAAA | http://xbrlsite.com/id,2025-12-31,common:LiabilitiesAndEquity,3084315.3,iso4217:USD,2,FACTb22bb066,20
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:Revenues,2604057,iso4217:USD,2,FACT4b05110e,22
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:Expenses,3957402.5,iso4217:USD,2,FACTc09e6d07,46
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:Gains,0,iso4217:USD,2,FACT781d5ea3,26
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:Losses,-2165.93,iso4217:USD,2,FACT6c36281f,48
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:NetIncome,-1351179.57,iso4217:USD,2,FACTafd86353,31
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:OtherComprehensiveIncome,0,iso4217:USD,2,FACT0370264b,33
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:ComprehensiveIncome,-1351179.57,iso4217:USD,2,FACT9eabb094,35
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:NetCashFlowOperatingActivities,-1352687.7,iso4217:USD,2,FACTe15445a0,37
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:NetCashFlowInvestingActivities,1049784.4,iso4217:USD,2,FACT30476375,39
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:NetCashFlowFinancingActivities,22936.7,iso4217:USD,2,FACTde548f08,41
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:NetCashFlow,-279966.6,iso4217:USD,2,FACT1cc74819,42
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:InvestmentsByOwners,0.07,iso4217:USD,2,FACT333f635e,43
+AAAAAAAAAA | http://xbrlsite.com/id,2025-01-01 | 2025-12-31,common:DistributionsToOwners,0,iso4217:USD,2,FACT36d83981,56
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:Assets,3364281.9,iso4217:USD,2,FACT4442ee73,1
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:Equity,1407646.6,iso4217:USD,2,FACT96d7949d,2
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:CurrentAssets,2097286.6,iso4217:USD,2,FACT9cc2143e,61
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:NoncurrentAssets,1266995.3,iso4217:USD,2,FACTb9f9bd6c,62
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:CurrentLiabilities,1595349.6,iso4217:USD,2,FACTda7b6953,66
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:NoncurrentLiabilities,361285.7,iso4217:USD,2,FACTfb829e3f,67
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:Liabilities,1956635.3,iso4217:USD,2,FACT09f8a6a1,68
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:LiabilitiesAndEquity,3364281.9,iso4217:USD,2,FACT90291122,69
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:EquityAttributableToControllingInterests,1407646.6,iso4217:USD,2,FACT0250885a,73
+AAAAAAAAAA | http://xbrlsite.com/id,2024-12-31,common:EquityAttributableToNoncontrollingInterests,0,iso4217:USD,2,FACT2858dda0,74

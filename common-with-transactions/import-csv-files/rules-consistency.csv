@@ -1,0 +1,2 @@
+﻿RuleType,RuleCode,Rule,StructureIdentifier,ConceptAspect,Sequence,Commentary
+ConsistencyRule,Arithmetic_BS01,$Assets = ($Liabilities + $Equity),BalanceSheet,common:Assets,,

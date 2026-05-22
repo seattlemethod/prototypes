@@ -1,0 +1,8 @@
+﻿ReportElementName,Language,LabelRole,Label
+common:Expenses,en,Negated,(Expenses)
+common:Losses,en,Negated,(Losses)
+common:Assets,en,PeriodStart,"Assets, Beginning Balance"
+common:Assets,en,PeriodEnd,"Assets, Ending Balance"
+common:Equity,en,PeriodStart,"Equity, Beginning Balance"
+common:DistributionsToOwners,en,Negated,(Distributions to Owners)
+common:Equity,en,PeriodEnd,"Equity, Ending Balance"

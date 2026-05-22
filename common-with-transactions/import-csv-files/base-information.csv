@@ -1,0 +1,3 @@
+﻿Code,NamespacePrefix,NamespaceIdentifier,SchemaLocation,DefaultLanguage,TaxonomyDescription
+Local,report,http://luca.pacioli.ai/report,report.xsd,en,
+Import,common,https://xbrlsite.azurewebsites.net/seattlemethod/common,https://xbrlsite.azurewebsites.net/seattlemethod/platinum/common/base-taxonomy/common.xsd,en,

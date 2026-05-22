@@ -1,0 +1,3 @@
+﻿RuleType,RuleCode,Rule,StructureIdentifier,ConceptAspect,Sequence,Commentary
+RollForwardRule,RollForward_CF01,$Assets_BalanceStart + $NetCashFlow = $Assets_BalanceEnd,CashFlow,common:Assets,,
+RollForwardRule,RollForward_SHE01,$Equity_BalanceStart + $ComprehensiveIncome + $InvestmentsByOwners - $DistributionsToOwners = $Equity_BalanceEnd,ChangesInEquity,common:Equity,,
