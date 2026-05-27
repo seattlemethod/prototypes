@@ -1,6 +1,6 @@
 ## Read Me
 
-These CSV files contain demo data from an accounting system.  There are 22,288 general ledger transactions that are "mapped" to standard report line items and standard business events represented using an XBRL taxonomy.  This is the XBRL taxonomy:
+These CSV files contain demo data from an accounting system.  There are 22,288 general ledger entries or about 3,000 transactions that are "mapped" to standard report line items and standard business events represented using an XBRL taxonomy.  This is the XBRL taxonomy:
 
 [MINI 2026](https://xbrlsite.azurewebsites.net/2026/reporting-framework/mini/base-taxonomy/mini_ModelStructure.html)
 
