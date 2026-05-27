@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created by Charles Hoffman, CPA -->
+<!-- Auto-generated from AccountingEngine prototype: 12/17/2024 3:12:25 PM -->
+<!-- General journal entries, XBRL Global Ledger style -->
+<xbrli:xbrl
+  xmlns:xbrli='http://www.xbrl.org/2003/instance'
+  xmlns:xbrll='http://www.xbrl.org/2003/linkbase'
+  xmlns:xlink='http://www.w3.org/1999/xlink'
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+
+  xmlns:gl-cor='http://www.xbrl.org/int/gl/cor/2015-03-25'
+  xmlns:gl-muc='http://www.xbrl.org/int/gl/muc/2015-03-25'
+  xmlns:gl-bus='http://www.xbrl.org/int/gl/bus/2015-03-25'
+  xmlns:gl-plt='http://www.xbrl.org/int/gl/plt/2015-03-25'
+  xmlns:gl-gen='http://www.xbrl.org/int/gl/gen/2015-03-25'
+
+  xmlns:iso4217='http://www.xbrl.org/2003/iso4217'
+  xmlns:iso639='http://www.xbrl.org/2005/iso639'
+  xsi:schemaLocation='http://www.xbrl.org/int/gl/plt/2015-03-25 http://www.xbrl.org/taxonomy/int/gl/2015-03-25/plt/case-c-b-m-u-t/gl-plt-en-2015-03-25.xsd'>
+
+  <xbrll:schemaRef xlink:type='simple' xlink:arcrole='http://www.w3.org/1999/xlink/properties/linkbase' xlink:href='http://www.xbrl.org/taxonomy/int/gl/2015-03-25/plt/case-c-b-m-u-t/gl-plt-en-2015-03-25.xsd'/>
+
+  <xbrli:context id='now'>
+     <xbrli:entity>
+         <xbrli:identifier scheme='http://xbrlsite.com/id'>AAAAAAAAAA</xbrli:identifier>
+     </xbrli:entity>
+     <xbrli:period>
+         <xbrli:instant>2018-12-31</xbrli:instant>
+     </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id='usd'>
+     <xbrli:measure>iso4217:USD</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id='NotUsed'>
+     <xbrli:measure>pure</xbrli:measure>
+  </xbrli:unit>
+
+ <gl-cor:accountingEntries>
+     <gl-cor:documentInfo>
+         <gl-cor:entriesType contextRef='now'>journal</gl-cor:entriesType>
+         <gl-cor:uniqueID contextRef='now'>001</gl-cor:uniqueID>
+         <gl-cor:language contextRef='now'>iso639:en</gl-cor:language>
+         <gl-cor:creationDate contextRef='now'>2024-12-31</gl-cor:creationDate>
+         <gl-bus:creator contextRef='now'>Charles Hoffman, CPA</gl-bus:creator>
+         <gl-cor:entriesComment contextRef='now'>Journal entries for 2024; box audit example.</gl-cor:entriesComment>
+         <gl-cor:periodCoveredStart contextRef='now'>2024-01-01</gl-cor:periodCoveredStart>
+         <gl-cor:periodCoveredEnd contextRef='now'>2024-12-31</gl-cor:periodCoveredEnd>
+         <gl-muc:defaultCurrency contextRef='now'>iso4217:usd</gl-muc:defaultCurrency>
+     </gl-cor:documentInfo>
+     <gl-cor:entityInformation>
+         <gl-bus:organizationIdentifiers>
+             <gl-bus:organizationIdentifier contextRef='now'>http://xbrlsite.com/id#AAAAAAAAAA</gl-bus:organizationIdentifier>
+             <gl-bus:organizationDescription contextRef='now'>Company Name</gl-bus:organizationDescription>
+         </gl-bus:organizationIdentifiers>
+     </gl-cor:entityInformation>
+
+
+  <!-- Journal Entries -->
+      <!-- JE-201 - Investment by owner to open a lemonade stand. -->
+     <gl-cor:entryHeader>
+        <gl-cor:enteredBy contextRef='now'>Charles Hoffman, CPA</gl-cor:enteredBy>
+        <gl-cor:enteredDate contextRef='now'>2024-01-31</gl-cor:enteredDate>
+        <gl-cor:sourceJournalID contextRef='now'>gj</gl-cor:sourceJournalID>
+        <gl-bus:sourceJournalDescription contextRef='now'>JE</gl-bus:sourceJournalDescription>
+        <gl-cor:entryType contextRef='now'>standard</gl-cor:entryType>
+        <gl-cor:entryNumber contextRef='now'>JE-201</gl-cor:entryNumber>
+        <gl-cor:entryComment contextRef='now'>Investment by owner to open a lemonade stand.</gl-cor:entryComment>
+
+         <!-- JE-201 -->
+         <!-- Seq-1 -->
+         <gl-cor:entryDetail>
+             <gl-cor:lineNumber contextRef='now'>1</gl-cor:lineNumber>
+             <gl-cor:account>
+                 <gl-cor:accountMainID contextRef='now'>000-1100-00</gl-cor:accountMainID>
+                 <gl-cor:accountMainDescription contextRef='now'>mini:CashAndCashEquivalents</gl-cor:accountMainDescription>
+                 <gl-cor:accountTypeDescription contextRef='now'>mini:ProceedsFromInvestmentsByOwner</gl-cor:accountTypeDescription>
+             </gl-cor:account>
+             <gl-cor:amount contextRef='now' decimals='2' unitRef='usd'>10000</gl-cor:amount>
+             <gl-cor:debitCreditCode contextRef='now'>D</gl-cor:debitCreditCode>
+             <gl-cor:postingDate contextRef='now'>2024-01-01</gl-cor:postingDate>
+             <gl-cor:documentType contextRef='now'>other</gl-cor:documentType>
+             <gl-cor:postingStatus contextRef='now'>posted</gl-cor:postingStatus>
+         </gl-cor:entryDetail>
+         <!-- JE-201 -->
+         <!-- Seq-2 -->
+         <gl-cor:entryDetail>
+             <gl-cor:lineNumber contextRef='now'>2</gl-cor:lineNumber>
+             <gl-cor:account>
+                 <gl-cor:accountMainID contextRef='now'>000-3100-00</gl-cor:accountMainID>
+                 <gl-cor:accountMainDescription contextRef='now'>mini:PaidInCapital</gl-cor:accountMainDescription>
+                 <gl-cor:accountTypeDescription contextRef='now'>mini:InvestmentsByOwner</gl-cor:accountTypeDescription>
+             </gl-cor:account>
+             <gl-cor:amount contextRef='now' decimals='2' unitRef='usd'>10000</gl-cor:amount>
+             <gl-cor:debitCreditCode contextRef='now'>C</gl-cor:debitCreditCode>
+             <gl-cor:postingDate contextRef='now'>2024-01-01</gl-cor:postingDate>
+             <gl-cor:documentType contextRef='now'>other</gl-cor:documentType>
+             <gl-cor:postingStatus contextRef='now'>posted</gl-cor:postingStatus>
+         </gl-cor:entryDetail>
+     </gl-cor:entryHeader>
+
+ </gl-cor:accountingEntries>
+
+</xbrli:xbrl>
