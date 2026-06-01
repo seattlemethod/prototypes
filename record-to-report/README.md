@@ -1,6 +1,6 @@
 ## Record to Report
 
-Lemonade stand, contains about 18 transactions.
+Lemonade stand, contains about 18 transactions. (Note that there are some inconsistencies between the journal entries and generated financial statements that need to be addressed.)
 
 [Blog Post](https://digitalfinancialreporting.blogspot.com/2025/02/record-to-report.html).
 
