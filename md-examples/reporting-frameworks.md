@@ -51,24 +51,24 @@ ex:item3 a schema:Thing ;
 
 ex:item4 a schema:Thing ;
   schema:name "Common Elements" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/common/refs/heads/main/common-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/common/refs/heads/main/base-taxonomy/common-theory.xsd" .
 
 ex:item5 a schema:Thing ;
   schema:name "OCC" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/occ/refs/heads/main/occ-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/occ/refs/heads/main/base/occ-theory.xsd" .
 
 ex:item6 a schema:Thing ;
   schema:name "MINI" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/mini/refs/heads/main/mini-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/mini/refs/heads/main/base-taxonomy/mini-theory.xsd" .
 
 ex:item7 a schema:Thing ;
   schema:name "PROOF" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/proof/refs/heads/main/proof-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/proof/refs/heads/main/base-taxonomy/proof-theory.xsd" .
 
 ex:item8 a schema:Thing ;
   schema:name "AASB 1060" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/aasb1060/refs/heads/main/aasb1060-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/aasb1060/refs/heads/main/base-taxonomy/aasb1060-theory.xsd" .
 
 ex:item9 a schema:Thing ;
   schema:name "IFRS for SMEs" ;
-  schema:identifier "https://raw.githubusercontent.com/seattlemethod/ifrs-smes/refs/heads/main/ifrs-smes-theory.xsd" .
+  schema:identifier "https://raw.githubusercontent.com/seattlemethod/ifrs-smes/refs/heads/main/base-taxonomy/ifrs-smes-theory.xsd" .
