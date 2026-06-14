@@ -23,6 +23,11 @@ manifest:
     - block: dataset
     - block: shapes
     - block: queries
+   
+  blocks:
+    dataset:
+      type: turtle
+      description: "Primary RDF graph"
 ---
 
 # {{REPORTING FRAMEWORKS}}
