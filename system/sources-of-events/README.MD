@@ -1,3 +1,5 @@
-# List of Sources of Events
+# Sources of Events
 
-The sources of events might be a document such as a PDF file, a text file, a markdown file, an electronic spreadsheet, or a structured graph of information.
+This subdirectory provides a list of sources of events.  Every event has at least one source for the event. Can an event have more than one source?
+
+[list-of-sources.md](list-of-sources.md]
