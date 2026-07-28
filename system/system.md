@@ -12,4 +12,4 @@ Events are recorded in an events journal.  Every event has a source.
 
 [reporting-framework](framework.md)
 
-[sources](sources.md)
+[list-of-sources](sources-of-events/list-of-sources.md)
