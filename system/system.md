@@ -9,3 +9,7 @@ Aggregate information about state and changes in state are report reported to re
 Events are recorded in an events journal.  Every event has a source.
 
 [events-journal](events/events-journal.md)
+
+[reporting-framework](framework.md)
+
+[sources](sources.md)
