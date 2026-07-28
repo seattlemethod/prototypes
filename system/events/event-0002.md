@@ -1,11 +1,19 @@
 ---
-id: 3f8c2a41-9b77-4e3e-8c1d-2f6a9d4c12e8
-dca:Party: dca:Self
-dca:CounterParty: dca:Customer
-dca:EventType: dca:Fulfillment
-title: "Invoice"
-version: 0.1.0
-created: 2024-12-31T23:59:59Z
+aad:EventType: dca:Financial
+aad:EventUUID: f0c3b9e2-7d11-46a8-9f0a-52c4e9d8b7aa
+aad:EventDateAndTime: 2024-12-31T23:59:59Z
+aad:EntityIdentifier: "https://example.gov/id#30810137d58f76b84afd"
+aad:EventSource: "https://raw.githubusercontent.com/seattlemethod/prototypes/refs/heads/main/system/sources-of-events/source-0001.md"
+aad:EventStandardReportingFrameworkLineItem: mini:CashAndCashEquivalents
+aad:EventStandardReportingFrameworkLineItem: mini:ProceedsFromInvestmentsByOwner
+aad:EventCoreFacetType: dca:Remittance
+aad:EventParty: dca:Self
+aad:EventCounterParty: dca:Owner
+aad:EventResourceType: dca:Money
+aad:EventRightOrObligation: dca:Obligation
+aad:EventLocalCommentLiteral: "Ties to spreadsheet of owner equity."
+aad:EventFactAmount: "10000"
+
 ---
 
 # Event
