@@ -13,3 +13,9 @@ Events are recorded in an events journal.  Every event has a source.
 [reporting-framework](framework.md)
 
 [list-of-sources](sources-of-events/list-of-sources.md)
+
+The general journal is a projection of the events journal.
+
+The general ledger is a projection of the general journal.
+
+The primary financial statements are a projection of the general ledger.
