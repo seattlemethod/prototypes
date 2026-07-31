@@ -19,15 +19,15 @@ This is a set of synthesized business events for a "lemonade stand".
 
 #6: JE-206	2024-01-16	Sales on account. (Sales invoice)
 
-#7: JE-206	2024-01-16	Costs related to sales on account. (?????)
+#7: JE-206	2024-01-16	Costs related to sales on account. (Inventory adjustment memo; assume perpetual inventory)
 
-#8: JE-207	2024-01-20	Collection of accounts receivable. (Check)
+#8: JE-207	2024-01-20	Collection of accounts receivable. (Check received from customer, deposited into bank.)
 
 #9: JE-208	2024-01-21	Payment of accounts payable. (Invoice from vendor)
 
-#10: JE-209	2024-01-25	Repayment of long term debt including accrued interest. (Contract with bank)
+#10: JE-209	2024-01-25	Repayment of long term debt including accrued interest. (Loan contract with bank)
 
-#11: JE-210	2024-01-24	Accrual of interest on debt. (Contract with bank)
+#11: JE-210	2024-01-24	Accrual of interest on debt. (Loan contract with bank)
 
 #12: JE-223	2024-01-28	Closing entry. Inventory write offs, adjust to physical inventory. (Reconciliation to actual physical inventory)
 
