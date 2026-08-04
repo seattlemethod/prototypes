@@ -1,6 +1,6 @@
 # System
 
-This explains the system.  The system has events.  The events have sources.  Events relate to and impact the state of resources and obligations.
+This explains the ideal system.  The system has `events`.  The `events` have `sources`.  Events relate to and impact the state of resources and obligations.
 Events cause a change in state of a resource or obligation. Sources provide documentation usually in the form of a document. The state of recources
 and obligations and the changes in state of resources and obligations are reported per some reporting framework.
 
