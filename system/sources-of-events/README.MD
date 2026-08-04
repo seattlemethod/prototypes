@@ -7,6 +7,8 @@ tends to be a document structured for presentation and interpretable by humans. 
 such as the [Universal Business Language](https://digitalfinancialreporting.blogspot.com/2026/07/universal-business-language.html) or UBL
 can provide human readable documentation that is also interpretable by a machine based process.
 
+Here is [information about UBL documents](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl).
+
 [list-of-sources.md](list-of-sources.md)
 
 
