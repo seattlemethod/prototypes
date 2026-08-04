@@ -20,4 +20,4 @@ The general journal is a projection of the events journal. [General journal entr
 
 The general ledger is a projection of the general journal.
 
-The primary financial statements are a projection of the general ledger.
+The primary financial statements are a projection of the general ledger using a specific reporting framework.
