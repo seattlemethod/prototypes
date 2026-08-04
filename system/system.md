@@ -16,7 +16,7 @@ Events are recorded in an events journal.  Every event has a source.
 
 [list-of-sources](sources-of-events/list-of-sources.md)
 
-The general journal is a projection of the events journal.
+The general journal is a projection of the events journal. [General journal entries](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/transactions/gl_ModelStructure.html).
 
 The general ledger is a projection of the general journal.
 
