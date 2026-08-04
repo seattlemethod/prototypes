@@ -2,6 +2,11 @@
 
 This subdirectory provides a list of sources of events.  Every event has at least one source for the event. Can an event have more than one source?
 
+Events don't just appear out of thin air.  Every event has some sort of documentation that supports the event.  These days the documentation 
+tends to be a document structured for presentation and interpretable by humans.  But a better way, which is achieved by using a standard
+such as the [Universal Business Language](https://digitalfinancialreporting.blogspot.com/2026/07/universal-business-language.html) or UBL
+can provide human readable documentation that is also interpretable by a machine based process.
+
 [list-of-sources.md](list-of-sources.md)
 
 
