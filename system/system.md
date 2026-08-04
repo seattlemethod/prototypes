@@ -11,7 +11,7 @@ Events are recorded in an events journal.  Every event has a source.
 
 [events-journal](events/events-journal.md)
 
-[reporting-framework](../reporting-framework/framework.md)
+[reporting-framework](reporting-framework/framework.md)
 
 [list-of-sources](sources-of-events/list-of-sources.md)
 
