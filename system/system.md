@@ -8,7 +8,7 @@ The state of those resources and obligations are changed by events.
 
 Aggregate information about state and changes in state are report reported to regulators per a reporting framework.
 
-Events are recorded in an events journal.  Every event has a source.
+Events are recorded in an events journal.  Every event has a source. Events can be described using [Data Centric Accounting](https://xbrlsite.azurewebsites.net/seattlemethod/dca/dca_ModelStructure.html).
 
 [events-journal](events/events-journal.md)
 
