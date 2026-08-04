@@ -12,7 +12,8 @@ Here is [information about UBL documents](https://www.oasis-open.org/committees/
 [list-of-sources.md](list-of-sources.md)
 
 
-This is a set of synthesized business events for a "lemonade stand".
+This is a set of synthesized business events for a "lemonade stand".  Each of these business events would have supporting documentation provided 
+in the form of some sort of document:
 
 #1: JE-201	2024-01-01	Investment by owner to open a lemonade stand. (Investment memorandum)
 
