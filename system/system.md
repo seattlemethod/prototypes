@@ -1,6 +1,7 @@
 # System
 
-This explains the system.  The system has events.  The events have sources.  Events relate to the state of resources and obligations.  
+This explains the system.  The system has events.  The events have sources.  Events relate to the state of resources and obligations.
+Sources provide documentation usually in the form of a document.
 
 The state of those resources and obligations are changed by events.  
 
