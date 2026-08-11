@@ -1,7 +1,8 @@
 ---
 aad:EventType: dca:Financial
 aad:EventUUID: f0c3b9e2-7d11-46a8-9f0a-52c4e9d8b7aa
-aad:EventDateAndTime: 2024-12-31T23:59:59Z
+aad:EventOccuranceDateAndTime: 2024-12-31T23:59:59Z
+aad:EventMintedDateAndTime: 2024-12-31T23:59:59Z
 aad:EntityIdentifier: "https://example.gov/id#30810137d58f76b84afd"
 aad:EventSource: "https://raw.githubusercontent.com/seattlemethod/prototypes/refs/heads/main/system/sources-of-events/source-0001.md"
 aad:EventStandardReportingFrameworkLineItem: mini:CashAndCashEquivalents
